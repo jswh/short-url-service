@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS `shorten_url` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `origin` text NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=2 ;
