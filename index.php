@@ -15,7 +15,7 @@ if ($code) {
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>j-server:short url</title>
+    <title>j-service:short url</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
